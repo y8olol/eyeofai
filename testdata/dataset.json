@@ -1,0 +1,32 @@
+[
+  {
+    "input": "eyeofai/testdata/submit_button.png",
+    "query": "find the red submit button",
+    "gt": {
+      "x_min": 120,
+      "y_min": 200,
+      "x_max": 340,
+      "y_max": 270
+    }
+  },
+  {
+    "input": "eyeofai/testdata/search_icon.png",
+    "query": "find the blue search area",
+    "gt": {
+      "x_min": 420,
+      "y_min": 80,
+      "x_max": 570,
+      "y_max": 180
+    }
+  },
+  {
+    "input": "eyeofai/testdata/logo_box.png",
+    "query": "find the green logo block",
+    "gt": {
+      "x_min": 60,
+      "y_min": 60,
+      "x_max": 210,
+      "y_max": 170
+    }
+  }
+]
